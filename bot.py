@@ -18,7 +18,7 @@ async def new_video(client, message):
     
     # Tumhe bhej do
     await client.send_message(
-        chat_id="YOUR_USER_ID",  # Apna user ID daalo
+        chat_id="7025388094",  # Apna user ID daalo
         text=f"✅ New Movie!\n\n📁 {file_name}\n🔗 {link}"
     )
 
